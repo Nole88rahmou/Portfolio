@@ -1,11 +1,11 @@
 # Explication avec captures d'ecran:
-![Capture d'écran de la page d'accueil](./public/README/PageD'acceuil.png)
-![Capture d'écran de la page de contact](./public/README/PageContact.png)
-![Capture d'écran des pages de temoignages (La page d'acceuil pour temoignage qui montre les liens vers les deux autres pages de la section de temoignages)](./public/README/AcceuilTemoignage.png)
-![Capture d'écran des pages de temoignages(page pour ajouter un temoignage, avec validation)](./public/README/AjouterTemoignage.png)
-![Capture d'écran des pages de temoignages(On peut voir les temoignages ainsi que les modifiers ou supprimer, j'ai mis un temoignage constant que  sera toujours afficher lors de demarrage de l'application)](./public/README/VoirTemoignage.png)
-![Capture d'écran de la page de projet (une pahe d'acceuil pour les projet qui montre les liens vers mes deux projets )](./public/README/PageProjet.png)
-![Capture d'écran de la page pour la description d'un projet, ainsi que les technologies utilises](./public/README/projet1.png)
+![Capture d'écran de la page d'accueil](./public/CapturesDecran/PageD'acceuil.png)
+![Capture d'écran de la page de contact](./public/CapturesDecran/PageContact.png)
+![Capture d'écran des pages de temoignages (La page d'acceuil pour temoignage qui montre les liens vers les deux autres pages de la section de temoignages)](./public/CapturesDecran/AcceuilTemoignage.png)
+![Capture d'écran des pages de temoignages(page pour ajouter un temoignage, avec validation)](./public/CapturesDecran/AjouterTemoignage.png)
+![Capture d'écran des pages de temoignages(On peut voir les temoignages ainsi que les modifiers ou supprimer, j'ai mis un temoignage constant que  sera toujours afficher lors de demarrage de l'application)](./public/CapturesDecran/VoirTemoignage.png)
+![Capture d'écran de la page de projet (une pahe d'acceuil pour les projet qui montre les liens vers mes deux projets )](./public/CapturesDecran/PageProjet.png)
+![Capture d'écran de la page pour la description d'un projet, ainsi que les technologies utilises](./public/CapturesDecran/projet1.png)
 
 
 # Getting Started with Create React App
