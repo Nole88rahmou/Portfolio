@@ -1,3 +1,13 @@
+# Explication avec captures d'ecran:
+![Capture d'écran de la page d'accueil](README/PageD'acceuil.png)
+![Capture d'écran de la page de contact](README/PageContact.png)
+![Capture d'écran des pages de temoignages (La page d'acceuil pour temoignage qui montre les liens vers les deux autres pages de la section de temoignages)](README/AcceuilTemoignage.png)
+![Capture d'écran des pages de temoignages(page pour ajouter un temoignage, avec validation)](README/AjouterTemoignage.png)
+![Capture d'écran des pages de temoignages(On peut voir les temoignages ainsi que les modifiers ou supprimer, j'ai mis un temoignage constant que  sera toujours afficher lors de demarrage de l'application)](README/VoirTemoignage.png)
+![Capture d'écran de la page de projet (une pahe d'acceuil pour les projet qui montre les liens vers mes deux projets )](README/PageProject.png)
+![Capture d'écran de la page pour la description d'un projet, ainsi que les technologies utilises](README/Projet1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
