@@ -1,0 +1,58 @@
+
+.home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    color:aliceblue; 
+}
+
+.home-page .profile-pic {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    animation: shake 0.5s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+}
+
+.home-page .profile-pic:hover {
+    animation: shake 0.5s cubic-bezier(.36,.07,.19,.97) both infinite;
+}
+
+@keyframes shake {
+    10%, 90% {
+        transform: translate3d(-1px, 0, 0);
+    }
+    
+    20%, 80% {
+        transform: translate3d(2px, 0, 0);
+    }
+
+    30%, 50%, 70% {
+        transform: translate3d(-4px, 0, 0);
+    }
+
+    40%, 60% {
+        transform: translate3d(4px, 0, 0);
+    }
+}
+
+.home-page .intro {
+    font-size: 2.5em;
+    color:chocolate;
+    margin: 20px 0;
+    background-color: black;
+}
+
+.home-page .skills {
+
+    font-size: 1.2em;
+    line-height: 1.6em;
+    color:chocolate;
+    margin-bottom: 20px;
+    background-color: black;
+}
